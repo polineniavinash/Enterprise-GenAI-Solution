@@ -21,6 +21,12 @@ Enterprise AI Solutions is an advanced AI-powered platform designed to cater to 
   
 ![Screenshot 2023-11-27 at 1 28![Screenshot 2023-11-27 at 1 30 14 AM](https://github.com/polineniavinash/Enterprise-GenAI-Solution/assets/32843645/fc0ea596-9541-4933-a1ca-65723cdc8f68)
 
+![Screenshot 2023-11-27 at 1 33 04 AM](https://github.com/polineniavinash/Enterprise-GenAI-Solution/assets/32843645/f90a49fb-a13b-48ab-bdba-4a71c47758a5)
+
+![Screenshot 2023-11-27 at 1 33 49 AM](https://github.com/polineniavinash/Enterprise-GenAI-Solution/assets/32843645/28976710-9084-4458-8fb6-5b5b1ff64ee8)
+
+
+
 
 ## Setup
 1. Clone the repository.
