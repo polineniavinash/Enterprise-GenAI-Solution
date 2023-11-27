@@ -19,6 +19,11 @@ Enterprise AI Solutions is an advanced AI-powered platform designed to cater to 
 - **Customized User Experience**: Caters to different user roles including Interns, Senior Engineers, ML Experts, and Product Managers.
 - **Wide Range of Applications**: Designed for diverse business scenarios.
 
+## Setup
+1. Clone the repository.
+2. Install required packages: `pip install -r requirements.txt`.
+3. Set your OpenAI API key in your environment: `export OPENAI_API_KEY="Your-Open-AI-API-Key"`.
+
 ## How to Use
 1. Visit the platform.
 2. Enter your query in the provided text area.
