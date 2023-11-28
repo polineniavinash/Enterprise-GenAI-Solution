@@ -145,7 +145,7 @@ st.markdown("""
 """)
 
 with st.sidebar:
-    st.image("brand_logo.png", width=300)  # Place your brand logo here
+    st.image("brand_logo.png", width=300)  
     st.caption("Created by Avinash Polineni")
 
 form_input = st.text_area('Enter your query', height=150)
