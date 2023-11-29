@@ -19,12 +19,12 @@ Enterprise AI Solutions is an advanced AI-powered platform designed to cater to 
 - **Customized User Experience**: Caters to different user roles including Interns, Senior Engineers, ML Experts, and Product Managers.
 - **Wide Range of Applications**: Designed for diverse business scenarios.
 
-##Conversation of the Chat-1 & Chat-2:
+## Conversation of the Chat-1 & Chat-2:
 
 <img width="1684" alt="Screenshot 2023-11-28 at 11 02 49 PM" src="https://github.com/polineniavinash/Enterprise-GenAI-Solution/assets/32843645/569136ad-e7c7-4a14-b0ac-6ad4d8a390c7">
 <img width="1330" alt="Screenshot 2023-11-28 at 11 03 22 PM" src="https://github.com/polineniavinash/Enterprise-GenAI-Solution/assets/32843645/9124fed1-dfc4-44e9-8cd8-0898f5e01030">
 
-##Summary of the Chat-1 & Chat-2:
+## Summary of the Chat-1 & Chat-2:
 
 <img width="657" alt="Screenshot 2023-11-28 at 11 04 13 PM" src="https://github.com/polineniavinash/Enterprise-GenAI-Solution/assets/32843645/956a8f1f-bf43-460c-8d24-9d09e0701cec">
 
