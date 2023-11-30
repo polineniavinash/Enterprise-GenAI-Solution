@@ -1,14 +1,3 @@
----
-title: EnterpriseAISolutions
-emoji: 📉
-colorFrom: indigo
-colorTo: blue
-sdk: streamlit
-sdk_version: 1.28.2
-app_file: app.py
-pinned: false
----
-
 # Enterprise AI Solutions by Avinash Polineni
 
 ## Overview
@@ -54,7 +43,7 @@ Avinash Polineni, a cloud engineer with a passion for science, technology, and A
 - [Hugging Face](https://huggingface.co/AvinashPolineni)
 
 
-© 2023 Avinash Polineni. All Rights Reserved.
+© 2023 Avinash Polineni.
 
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
