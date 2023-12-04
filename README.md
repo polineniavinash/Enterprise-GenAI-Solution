@@ -43,7 +43,7 @@ Enterprise AI Solutions is an advanced AI-powered platform designed to cater to 
 Contributions to this project are welcome! Whether it's feature requests, bug reports, or code contributions, your input is valuable.
 
 ## About the Developer
-Avinash Polineni, a cloud engineer with a passion for science, technology, and AI, created this platform. With a deep interest in domains like astrophysics, quantum mechanics, and sustainability, Avinash brings a unique perspective to AI applications in enterprise solutions.
+Avinash Polineni, a cloud engineer with a passion for science, technology, and AI, developed this platform. Possessing a keen interest in areas such as Generative AI, Cloud Computing, and Security, Avinash infuses a distinctive viewpoint into the utilization of AI in enterprise solutions.
 
 ## Contact
 - [GitHub](https://github.com/polineniavinash)
