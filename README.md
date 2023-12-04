@@ -1,14 +1,3 @@
----
-title: EnterpriseAISolutions
-emoji: 📉
-colorFrom: indigo
-colorTo: blue
-sdk: streamlit
-sdk_version: 1.28.2
-app_file: app.py
-pinned: false
----
-
 # Enterprise AI Solutions by Avinash Polineni
 
 ## Overview
@@ -18,12 +7,15 @@ Enterprise AI Solutions is an advanced AI-powered platform designed to cater to 
 - **Interactive AI Interface**: Utilizes OpenAI's powerful models for accurate and insightful responses.
 - **Customized User Experience**: Caters to different user roles including Interns, Senior Engineers, ML Experts, and Product Managers.
 - **Wide Range of Applications**: Designed for diverse business scenarios.
-  
-![Screenshot 2023-11-27 at 1 30 14 AM](https://github.com/polineniavinash/Enterprise-GenAI-Solution/assets/32843645/fc0ea596-9541-4933-a1ca-65723cdc8f68)
 
-![Screenshot 2023-11-27 at 1 33 04 AM](https://github.com/polineniavinash/Enterprise-GenAI-Solution/assets/32843645/f90a49fb-a13b-48ab-bdba-4a71c47758a5)
+## Conversation of the Chat-1 & Chat-2:
 
-![Screenshot 2023-11-27 at 1 33 49 AM](https://github.com/polineniavinash/Enterprise-GenAI-Solution/assets/32843645/28976710-9084-4458-8fb6-5b5b1ff64ee8)
+<img width="1684" alt="Screenshot 2023-11-28 at 11 02 49 PM" src="https://github.com/polineniavinash/Enterprise-GenAI-Solution/assets/32843645/569136ad-e7c7-4a14-b0ac-6ad4d8a390c7">
+<img width="1330" alt="Screenshot 2023-11-28 at 11 03 22 PM" src="https://github.com/polineniavinash/Enterprise-GenAI-Solution/assets/32843645/9124fed1-dfc4-44e9-8cd8-0898f5e01030">
+
+## Summary of the Chat-1 & Chat-2:
+
+<img width="657" alt="Screenshot 2023-11-28 at 11 04 13 PM" src="https://github.com/polineniavinash/Enterprise-GenAI-Solution/assets/32843645/956a8f1f-bf43-460c-8d24-9d09e0701cec">
 
 
 
@@ -51,7 +43,7 @@ Avinash Polineni, a cloud engineer with a passion for science, technology, and A
 - [Hugging Face](https://huggingface.co/AvinashPolineni)
 
 
-© 2023 Avinash Polineni. All Rights Reserved.
+© 2023 Avinash Polineni.
 
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
